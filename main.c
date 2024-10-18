@@ -7,6 +7,6 @@ int main()
 	{
 		printf("%i. %s\n", i, hurray);
 	}
-	int test = 0;
-	return test;
+	int no_test = 0;
+	return no_test;
 }
