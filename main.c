@@ -1,10 +1,12 @@
 #include <stdio.h>
+
 int main()
 {
 	char hurray[] = "Hurray!";
-	for (int i = 0;i < 20; i++) 
+	for (int i = 0;i < 10; i++) 
 	{
 		printf("%i. %s\n", i, hurray);
 	}
-	return 0;
+	int test = 0;
+	return test;
 }
